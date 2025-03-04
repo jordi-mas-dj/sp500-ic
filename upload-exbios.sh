@@ -1,0 +1,1 @@
+gcloud storage mv exbios/ gs://sp500_10000k_2025_03_05/exbios
